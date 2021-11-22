@@ -16,7 +16,7 @@ export default function App() {
         </div>
 
         <div className="bio">
-          I am Shashank and Currently I am learning about blockchain? Connect
+          I am Shashank and Currently I am learning about blockchain! Connect
           your Ethereum wallet and wave at me!
         </div>
 
